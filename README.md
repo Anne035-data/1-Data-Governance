@@ -4,30 +4,30 @@ Ce repository contient l'ensemble des documents relatifs au projet de mise en pl
 
 ## Documents du Projet
 
-### [1. Understanding Spotify's Data Landscape](./1_Understanding%20Spotify%27s%20Data%20Landscape.pdf)
+### [1. Understanding Spotify's Data Landscape]
 Analyse détaillée de l'écosystème data de Spotify :
 - État des lieux de la maturité data
 - Défis actuels en matière de gouvernance
 
-### [2. Data Governance Policy Document](2_Data%20Governance%20Policy%20Document.pdf)
+### [2. Data Governance Policy Document]
 Document cadre définissant :
 - Principes fondamentaux de gouvernance des données
 - Structure organisationnelle et rôles
 
-### [3. Detailed Implementation Plan](./3_Detailed%20Implementation%20Plan.pdf)
+### [3. Detailed Implementation Plan]
 Plan détaillé de mise en œuvre incluant :
 - Approche Center of Excellence
 - Planning de déploiement
 - Outils et solutions techniques
 - KPIs et mesures de succès
 
-### [4. Organigramme Spotify](./4_organigramme_spotify.pdf)
+### [4. Organigramme Spotify]
 Représentation visuelle de :
 - Structure organisationnelle
 - Rôles et responsabilités
 - Liens hiérarchiques et fonctionnels
 
-### [5. Support Présentation](./support_presentation.pdf)
+### [5. Support Présentation]
 Support visuel pour la présentation du projet.
 
 ## Structure de Gouvernance
