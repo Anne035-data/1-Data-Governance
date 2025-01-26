@@ -4,7 +4,7 @@ Ce repository contient l'ensemble des documents relatifs au projet de mise en pl
 
 ## Documents du Projet
 
-### [1. Understanding Spotify's Data Landscape](1_Understanding%20Spotify%20Data%20Landscape.pdf)
+### [1. Understanding Spotify's Data Landscape](./1_Understanding%20Spotify%27s%20Data%20Landscape.pdf)
 Analyse détaillée de l'écosystème data de Spotify :
 - État des lieux de la maturité data
 - Défis actuels en matière de gouvernance
