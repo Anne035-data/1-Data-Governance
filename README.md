@@ -4,12 +4,12 @@ Ce repository contient l'ensemble des documents relatifs au projet de mise en pl
 
 ## Documents du Projet
 
-### [1. Understanding Spotify's Data Landscape](./1_Understanding%20Spotify's%20Data%20Landscape.pdf)
+### [1. Understanding Spotify's Data Landscape](1_Understanding%20Spotifys%20Data%20Landscape.pdf)
 Analyse détaillée de l'écosystème data de Spotify :
 - État des lieux de la maturité data
 - Défis actuels en matière de gouvernance
 
-### [2. Data Governance Policy Document](./2_Data%20Governance%20Policy%20Document.pdf)
+### [2. Data Governance Policy Document](2_Data%20Governance%20Policy%20Document.pdf)
 Document cadre définissant :
 - Principes fondamentaux de gouvernance des données
 - Structure organisationnelle et rôles
